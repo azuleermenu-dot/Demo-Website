@@ -1,26 +1,30 @@
-# Ember & Salt
+# Talen & Tide — Demo Website
 
-> **DEMO CONCEPT — FICTIONAL BRANDING**
+> **FICTIONAL DEMO CONCEPT — NOT A REAL BUSINESS — PORTFOLIO USE ONLY**
 
-A fictional restaurant branding concept created for portfolio/demo purposes.
+A fictional restaurant website concept created for portfolio and demonstration purposes.
 
 ## Concept
 
-**EMBER & SALT** is imagined as a contemporary fire-led restaurant with a refined coastal influence.
+**TALEN & TIDE** is an original fictional restaurant identity imagined as a contemporary coastal kitchen built around live fire, bright produce, and relaxed dining.
 
-**Tagline:** FIRE. SALT. SOMETHING WORTH REMEMBERING.
+**Tagline:** WHERE FIRE MEETS THE OPEN SEA.
 
 ### Visual Identity
 
 - Charcoal / near-black foundation
 - Warm ivory typography
-- Ember-orange accent
+- Ember-inspired accent tones
 - Editorial serif + modern sans-serif pairing
-- Abstract flame and salt-crystal motif
+- Original abstract flame / tide-inspired mark
 - Premium, warm, tactile, slightly dramatic direction
 
 ## Important
 
-This is a **demo only** and is not presented as an actual business or affiliation. Branding should be checked for trademark and business-name conflicts before any commercial use.
+This project is **concept-only**. Talen & Tide is a fictional brand created for portfolio demonstration and is not presented as an actual restaurant, company, service, or affiliation.
 
-**STATUS: DEMO / CONCEPT ONLY**
+All menu items, prices, address, contact details, reservation interactions, and other business information shown on the site are illustrative.
+
+Before using any concept commercially, independently verify the proposed name, branding, domain, social handles, and trademarks in the intended market.
+
+**STATUS: FICTIONAL DEMO / CONCEPT ONLY**
