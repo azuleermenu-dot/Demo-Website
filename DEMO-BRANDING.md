@@ -1,30 +1,30 @@
-# EMBER & SALT — DEMO BRANDING
+# TALEN & TIDE — DEMO BRANDING
 
-> ⚠️ **DEMO CONCEPT — NOT A REAL BUSINESS**
+> ⚠️ **FICTIONAL DEMO CONCEPT — NOT A REAL BUSINESS**
 >
-> This repository contains a fictional branding concept created for portfolio/demo purposes. It is not intended to represent, impersonate, or claim affiliation with an existing business.
+> This repository contains an original fictional branding concept created for portfolio/demo purposes. It is not intended to represent, impersonate, or claim affiliation with an existing business.
 
 ## Brand Concept
 
-**Name:** Ember & Salt  
+**Name:** Talen & Tide  
 **Category:** Fictional modern restaurant  
-**Positioning:** Contemporary fire-led dining with a refined coastal influence.
+**Positioning:** Contemporary coastal dining shaped around live fire, seasonal ingredients, and an editorial atmosphere.
 
 ### Visual Direction
 
 - **Primary tone:** Charcoal / near-black
 - **Secondary:** Warm ivory
-- **Accent:** Ember orange
+- **Accent:** Ember-inspired warm tones
 - **Typography:** Editorial high-contrast serif paired with a restrained sans-serif
-- **Logo idea:** Abstract flame + salt crystal geometry
+- **Logo idea:** Original abstract flame + tide geometry
 - **Mood:** Warm, sophisticated, tactile, slightly dramatic
 
 ## Suggested Tagline
 
-**FIRE. SALT. SOMETHING WORTH REMEMBERING.**
+**WHERE FIRE MEETS THE OPEN SEA.**
 
 ## Portfolio Safety Notice
 
-The Ember & Salt name, logo, copy, imagery, and visual identity in this project are presented as a **fictional demo**. Before using this concept commercially, verify the name and branding for trademark, business-name, domain, and social-media availability in the intended market.
+The Talen & Tide name, logo, copy, imagery direction, and visual identity in this project are presented as a **fictional demo concept**. This site does not represent a real restaurant or business affiliation. Before using the concept commercially, verify the proposed name and branding for trademark, business-name, domain, and social-media availability in the intended market.
 
-**Status: DEMO / CONCEPT ONLY**
+**Status: FICTIONAL DEMO / CONCEPT ONLY**
