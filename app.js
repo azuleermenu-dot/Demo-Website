@@ -5,5 +5,6 @@ document.getElementById('menuButton').addEventListener('click',()=>showToast('Sa
 document.getElementById('directions').addEventListener('click',()=>showToast('Directions preview — fictional location only'));
 document.getElementById('reserveForm').addEventListener('submit',(event)=>{event.preventDefault();showToast('Reservation preview created — no real booking was submitted');event.target.reset()});
 const toggle=document.getElementById('menuToggle');
-toggle.addEventListener('click',()=>{const nav=document.querySelector('nav');nav.classList.toggle('mobile-open')});
-document.querySelectorAll('nav a').forEach(link=>link.addEventListener('click',()=>document.querySelector('nav').classList.remove('mobile-open')));
+const nav=document.querySelector('nav');
+toggle.addEventListener('click',()=>{const open=nav.classList.toggle('mobile-open');if(open){nav.style.display='flex';nav.style.position='absolute';nav.style.top='72px';nav.style.left='0';nav.style.right='0';nav.style.padding='22px 7vw';nav.style.background='var(--bg)';nav.style.borderBottom='1px solid var(--line)';nav.style.flexDirection='column';nav.style.gap='18px'}else{nav.removeAttribute('style')}});
+document.querySelectorAll('nav a').forEach(link=>link.addEventListener('click',()=>{nav.classList.remove('mobile-open');nav.removeAttribute('style')}));
